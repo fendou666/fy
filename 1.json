@@ -12,19 +12,5 @@
     {"title":"葡萄资源","api":"https://caiji.putaozy.net/inc/seacms.php","datatype":"xml","search":true},
     {"title":"老鸭资源","api":"https://laoyazy54.com/api.php/provide/vod/","datatype":"json","search":true},
     {"title":"滴滴资源","api":"https://api.ddapi.cc/api.php/provide/vod/at/xml","datatype":"xml","search":true},
-    {"title":"奥斯卡资源","api":"https://aosikazy.com/api.php/provide/vod/at/xml","datatype":"xml","search":false},
-	{"title": "乐","api:"https://lbapi9.com/api.php/provide/vod/","datatype":"json","search":true},
-	{"title": "速","api:"http://www.ggmmzy.com:9999/inc/xml","datatype":"xml","search":true},
-	{"title": "番","api:"http://fhapi9.com/api.php/provide/vod/","datatype":"json","search":true},
-	{"title": "*酷豆","api:"https://kudouzy.com/api.php/provide/vod/","datatype":"json","search":true},
-	{"title": "酷豆2(切)","api:"https://api.kdapi.info/api.php/provide/vod/at/json","datatype":"json","search":true},
-	{"title": "酷伦理(切)","api:"https://api.kudian70.com/api.php/provide/vod/at/json","datatype":"json","search":true},
-	{"title": "*蛋蛋视频","api:"https://156.249.29.8/inc/apijson_vod.php","datatype":"json","search":true},
-	{"title": "番号资源(卡切)","api:"http://fhapi9.com/api.php/provide/vod/at/json","datatype":"json","search":true},
-	{"title": "夜夜撸资源(切)","api:"https://www.caiji23.com/home/cjapi/kls6/mc10/vod/xml","datatype":"xml","search":true},
-	{"title": "*影库资源","api:"https://api.ykapi.net/api.php/provide/vod/from/ykm3u8/","datatype":"json","search":true},
-	{"title": "*奶插","api:"https://caiji.naichaapi.com/inc/apijson_vod.php","datatype":"json","search":true},
-	{"title": "*大MM","api:"https://www.dmmapi.com/home/cjapi/asd2c7/mc/vod/xml","datatype":"xml","search":true},
-	{"title": "色窝资源","api:"https://sewozyapi.com/api.php/provide/vod/","datatype":"json","search":true},
-	{"title": "ASMR(qp)","api:"http://www.asmr19.in/api.php/provide/vod/","datatype":"json","search":true}
+    {"title":"奥斯卡资源","api":"https://aosikazy.com/api.php/provide/vod/at/xml","datatype":"xml","search":false}
 ]
